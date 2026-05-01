@@ -1,11 +1,68 @@
-## Hi there 👋 My name is Mohammed Zitani
-I am Software Developer using different Technologies such as Python, .Net, React, Next.js and I am a Ceritified Azure Developer (AZ-204 Certification) and I am preparing for the Azure DevOps Expert AZ-400 Certification hopefully I will be ready soon 😄 I am passionate about learning how things work under the hood and improve myself in areas that can make the best version of myself.
-- 🔭 I’m currently working in Microsoft Azure Support as a Subject matter Expert in Azure Functions, Static Web Apps, this job is so interesting to me because I always get new issues, which is a little bit similar to when you are developing and you keep track of your bugs and try to solve them, this helps build a sense of investigation and quick reflex as the customers most of the time faces these issues in their production environments and they need a quick resolution
-- 🌱 I’m currently learning .Net 8 and how to use it along different services such as Blazor, MAUI, Grpc, GraphQL and more technologies and I am working on improving my algorithmic skills by following the book https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230 which is so well written and has less math and theories which is great 😄.
-- 👯 I’m looking to collaborate on open source projects and get my hands dirty in interesting projects. 
-- 💬 Ask me about Azure Functions as I faced a lot of issues and I have some kind of experience with them.
-- 📫 How to reach me: zitaniceo@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am not 6ft tall
-- 🏔️ Portfolio: https://www.mzitani.com/
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
